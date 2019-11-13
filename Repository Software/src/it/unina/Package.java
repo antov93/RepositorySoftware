@@ -46,7 +46,7 @@ private void inizializzaComponentiGrafiche(){
 		label4 = new JLabel();
 		label5 = new JLabel();
 		label6 = new JLabel();
-		
+		System.out.println("ciao");
 		nome=new JTextField();
 		descrizione=new JTextField();
 		aggiunto=new JTextField();
