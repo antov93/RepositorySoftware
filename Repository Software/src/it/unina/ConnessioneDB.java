@@ -33,8 +33,7 @@ public class ConnessioneDB {
 
 
 	static private JDialog ok;
-	
-	
+
 	static public Connection getConnection(){
 		if(conn==null ){
 			conn=connetti();
