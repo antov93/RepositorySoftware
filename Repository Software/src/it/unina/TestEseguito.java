@@ -172,6 +172,8 @@ public class TestEseguito extends Frame {
 	      classe.setText("");
 	      data.setText("");
 	      esito.setText("");
+	     
 	      
+	      //a
 	   }
 }
