@@ -38,6 +38,7 @@ public class ConnessioneDB {
 		if(conn==null ){
 			conn=connetti();
 		}
+		System.out.println("ciao");
 		return conn;
 	}
 	
