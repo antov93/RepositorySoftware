@@ -37,7 +37,7 @@ public class Test extends Frame{
 		label1 = new JLabel();
 		label2 = new JLabel();
 		label3 = new JLabel();
-		
+		System.out.println("ciao");
 		nome=new JTextField();
 		descrizione=new JTextField();
 		progetto=new JTextField();
