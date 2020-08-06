@@ -15,7 +15,7 @@ public class AssegnazioneProgetto extends Frame {
 	private JLabel label1;
 	private JLabel label2;
 
-	
+	//a
 	private JTextField sviluppatore;
 	private JTextField progetto;
 	
